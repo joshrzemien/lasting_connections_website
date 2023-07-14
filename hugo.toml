@@ -1,4 +1,4 @@
-baseURL       = "https://lconnectionsdev.pages.dev/"
+baseURL       = "https://lasting-connections-website.pages.dev/"
 languageCode  = "en-us"
 title         = "Lasting Connections | Living Beyond Limits"
 theme         = "roxo-hugo"
