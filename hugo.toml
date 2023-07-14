@@ -33,7 +33,7 @@ googleAnalytics = "G-QTE2REPR8X"
   description = "Lasting Connections | Living Beyond Limits"
   author = "Zmanplex"
 
-  # We're using formspree.io for form handling, paste your formspree url below
+  # We're using formkeep for form handling, paste your formspree url below
   fabform  = "https://formkeep.com/f/154d0e93bf5f"
 
   # Contact Form
