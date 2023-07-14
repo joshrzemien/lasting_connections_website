@@ -1,0 +1,14 @@
+enable : true
+heading : "MEASURING OUR IMPACT"
+counter_item: 
+  - title: "Years in Business"
+    number: "8"
+
+  - title: "Families Helped"
+    number: "100"
+
+  - title: "Client Satisfaction Score"
+    number: "A"
+
+  - title: "Client Referrals"
+    number: "25"

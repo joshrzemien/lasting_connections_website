@@ -1,0 +1,99 @@
+baseURL       = "https://lconnectionsdev.pages.dev/"
+languageCode  = "en-us"
+title         = "Lasting Connections | Living Beyond Limits"
+theme         = "roxo-hugo"
+summarylength = 25
+googleAnalytics = "G-QTE2REPR8X"
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Home"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Join Our Team!"
+    url     = "https://6340.axiscare.com/?caregivers-applications.php&frm_id=1"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Get in touch"
+    url     = "contact"
+    weight  = 4
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Lasting Connections | Living Beyond Limits"
+  author = "Zmanplex"
+
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://formkeep.com/f/154d0e93bf5f"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "First Name"
+    placeholder_last_name         = "Last Name"
+    placeholder_email             = "Email"
+    placeholder_phone             = "Phone Number"
+    placeholder_details           = "Details"
+    send_message                  = "Send Message"
+
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/main-background.jpg"
+    heading               = "Upholding Dignity and Independence in the Comfort of Home."
+    tagline               = "LIVING BEYOND LIMITS"
+    primary_button        = "About us"
+    primary_button_url    = "about"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "FIND OUT MORE ABOUT OUR SERVICES"
+    primary_button      = "Contact Us"
+    primary_button_url  = "contact"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "Livonia, MI, United States"
+      phone   = "1-734-206-2070"
+      email   = "kalaj@lconnections.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "About Company"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+        [[params.footer.sitemap.link]]
+          name = "Join Our Team!"
+          url = "https://6340.axiscare.com/?caregivers-applications.php&frm_id=1"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "https://www.facebook.com/lconnections"
+      # Footer Service
+      [params.footer.service]
+        title       = "Our Mission:"
+        description = "To honor and empower seniors by helping them achieve immediate and lasting connections"

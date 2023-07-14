@@ -1,3 +1,5 @@
 [submodule "themes/roxo-hugo"]
 	path = themes/roxo-hugo
 	url = https://github.com/StaticMania/roxo-hugo.git
+[submodule "roxo-hugo"]
+	url = https://github.com/joshrzemien/roxo-hugo.git
