@@ -27,7 +27,7 @@ googleAnalytics = "G-QTE2REPR8X"
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/logo.webp"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Lasting Connections | Living Beyond Limits"
@@ -55,7 +55,7 @@ googleAnalytics = "G-QTE2REPR8X"
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/Website_Cover_Image_-_Darkened.png"
+    background_image      = "images/backgrounds/main-background.webp"
     heading               = "Upholding Dignity and Independence in the Comfort of Home."
     tagline               = "LIVING BEYOND LIMITS"
     primary_button        = "About us"

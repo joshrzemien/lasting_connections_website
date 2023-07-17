@@ -1,7 +1,7 @@
 enable  : true
 title   : MEET OUR TEAM
 members  :
-  - image       : images/kala_resized.png
+  - image       : images/kala_resized.webp
     name        : Kala Jackson
     designation : President/CEO
     linkedin    : https://www.linkedin.com/in/kala-janik-ab3ab9143/
