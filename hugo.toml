@@ -1,7 +1,6 @@
 baseURL       = "https://lasting-connections-website.pages.dev/"
 languageCode  = "en-us"
 title         = "Lasting Connections | Living Beyond Limits"
-description   = "Lasting Connections offers a broad range of services, from meticulous housekeeping to compassionate personal care, tailored to enhance the comfort and well-being of your family member."
 theme         = "roxo-hugo"
 summarylength = 25
 googleAnalytics = "G-QTE2REPR8X"
@@ -31,7 +30,7 @@ googleAnalytics = "G-QTE2REPR8X"
   logo = "images/logo.webp"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Lasting Connections | Living Beyond Limits"
+  description   = "Lasting Connections offers a broad range of services, from meticulous housekeeping to compassionate personal care, tailored to enhance the comfort and well-being of your family member."
   author = "Zmanplex"
 
   # We're using formkeep for form handling, paste your formspree url below
