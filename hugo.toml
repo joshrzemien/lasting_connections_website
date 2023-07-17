@@ -55,7 +55,7 @@ googleAnalytics = "G-QTE2REPR8X"
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/main-background.jpg"
+    background_image      = "images/backgrounds/Website_Cover_Image_-_Darkened.png"
     heading               = "Upholding Dignity and Independence in the Comfort of Home."
     tagline               = "LIVING BEYOND LIMITS"
     primary_button        = "About us"
