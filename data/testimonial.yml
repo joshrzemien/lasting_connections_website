@@ -2,33 +2,26 @@ enable  : true
 title   : "CUSTOMER SUCCESS STORIES"
 subtitle: "What our clients say about our services."
 testimonial_item :
-  - thumb : "images/testimonial/person1.webp"
-    name  : "Emily Anderson"
+  - name  : "Linda C."
     quote : > 
-            "Lasting Connections provided exceptional care for my dad post-surgery. They assigned a dedicated team including a nurse, physical therapist, and social worker. I appreciated their personalized approach and continuous updates. They gave us peace of mind, allowing my father to confidently age at home. Highly recommended." 
+            "Five stars, Briana does good work we are pleased." 
 
-  - thumb : "images/testimonial/person2.webp"
-    name  : "Ethan Miller"
+  - name  : "Joe B."
     quote : >
-            "We engaged Lasting Connections for my grandfather's care. Their dedicated staff made sure all his needs were met, allowing him to age with grace at home. Their communication with us was consistent and comprehensive. And we felt even better about our decision after finding their communication with us to be so clear and detailed."
-
-  - thumb : "images/testimonial/person3.webp"
-    name  : "David Foster"
+            "Kala and her company are incredible. She is one of the most competent business persons I have ever encountered. Her staff is amazing 11/10"
+  
+  - name  : "Susan M."
     quote : > 
-            "We turned to Lasting Connections for my mother's care and they've surpassed our expectations. Their compassionate and professional team eased our worries, and the ongoing updates are greatly appreciated. They've made home the best place for mom in her golden years. Five stars!" 
+            "None of us were entirely ready for this change, it was never going to be an ideal time." 
 
-  - thumb : "images/testimonial/person4.webp"
-    name  : "Sophia Clark"
+  - name  : "Emily B."
     quote : > 
-            "Lasting Connections has been a blessing for our family. Their team catered to my father's needs with professionalism and compassion. The communication was top-notch, keeping us informed at every step. My father is happier and more comfortable at home thanks to their services." 
+            "Thank you so very much for your assistance with my dad. While we only needed your services for a short time, during that time your care, compassion, attention to detail and responsiveness made for a seamless transition when we needed it most. I appreciate you always being available and bringing comfort at a time like this."
 
-
-  - thumb : "images/testimonial/person5.webp"
-    name  : "William Bennett"
+  - name  : "Warren E."
     quote : > 
-            "Lasting Connections has made a significant difference in my aunt's quality of life. The team's attentiveness and sensitivity towards her needs have been outstanding, and their communication keeps us in the loop. Their service has been instrumental in ensuring her comfort at home. Kudos to the team!" 
+            "Excellent service very friendly and helpful Made things a lot better."
 
-  - thumb : "images/testimonial/person6.webp"
-    name  : "Samuel Parker"
+  - name  : "Phyliss S."
     quote : > 
-            "Lasting Connections provides phenomenal support for my wife. Their tailor-made approach ensures her unique needs are met, allowing her to enjoy her own home's comfort. The team's frequent updates keep us assured of her well-being. They've truly made aging at home a seamless experience. " 
+            "I want you to know I adore Christina! She is kind, funny and helpful, We get along great!" 

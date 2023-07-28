@@ -72,7 +72,7 @@ googleAnalytics = "G-QTE2REPR8X"
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Livonia, MI, United States"
-      phone   = "1-734-206-2070"
+      phone   = "734-206-2070"
       email   = "kalaj@lconnections.com"
       # Footer Sitemap
       [params.footer.sitemap]

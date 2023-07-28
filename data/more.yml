@@ -1,0 +1,13 @@
+enable: true
+first_title: AREAS SERVICED
+areas_serviced:
+  - "Oakland County"
+  - "Macomb County"
+  - "Livingston County"
+  - "Monroe County"
+  - "Wayne County"
+  - "Washtenaw County"
+second_title: PAYMENTS ACCEPTED
+payments_accepted:
+  - "Long Term Care Insurance"
+  - "Private Pay"
