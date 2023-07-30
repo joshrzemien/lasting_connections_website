@@ -1,4 +1,4 @@
-baseURL       = "https://lasting-connections-website.pages.dev/"
+baseURL       = "https://lconnections.com/"
 languageCode  = "en-us"
 title         = "Lasting Connections | Living Beyond Limits"
 theme         = "roxo-hugo"
@@ -34,7 +34,7 @@ googleAnalytics = "G-QTE2REPR8X"
   author = "Zmanplex"
 
   # We're using formkeep for form handling, paste your formspree url below
-  fabform  = "https://formkeep.com/f/154d0e93bf5f"
+  fabform  = "https://formkeep.com/f/427cf5b03835"
 
   # Contact Form
   [params.contactForm]
